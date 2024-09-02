@@ -1,0 +1,27 @@
+[
+
+    {
+        "nome": "Jovem Dionísio",
+        "album" : "Ontem Eu Tinha Certeza (Hoje Eu Tenho Mais)",
+        "estilo" : "Indie Pop",
+        "preco" : "R$ 35,75",
+        "image" : "<img src='./img/ontemeutinhacertezahojeeutenhomais.jfif' width='400px'>"
+        
+    },
+
+    {
+        "nome": "Lagum",
+        "album" : "Coisas da Geração",
+        "estilo" : "Música pop, Rock",
+        "preco" : "R$ 41,99",
+        "image" : "<img src='./img/Lagum_-_Coisas_da_Geração.jpg' width='400px'>"
+    },
+    
+    {
+        "nome": "Baco Exu do Blues",
+        "album" : "QVVJFA?",
+        "estilo" : "Hip hop, trap, pop rap",
+        "preco" : "R$ 21,99",
+        "image" : "<img src='./img/qvvjfa.jfif' width='400px'>"
+    }
+]
