@@ -14,6 +14,8 @@ async function getWeather(){
         document.getElementById("temperatura").innerHTML = tempCelcius.toFixed(1) + '°C'
     } catch (e) {
         document.getElementById("temperatura").innerHTML = `Não encontrei "${local.value.trim()}"!`
+        document.getElementById("minima").innerHTML = '-'
+        document.getElementById("maxima").innerHTML = '-'
     }
 
 }
